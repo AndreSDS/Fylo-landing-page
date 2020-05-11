@@ -1,0 +1,38 @@
+.page{
+    width: 90vw;
+    height: auto;
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+header nav{
+    width: 250px;
+}
+header nav ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+header nav ul li a{
+    text-decoration: none;
+}
+.top{
+    margin-top: 70;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 2em;
+    height: auto;
+    align-items: center;
+    justify-content: center;
+}
+.top .text{
+    grid-column: 1;
+}
+.top .img{
+    grid-column: 2;
+}
+.top .img img{
+    width: 40vw;
+}
