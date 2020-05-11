@@ -1,0 +1,23 @@
+{
+  "name": "Fylo-landing-page",
+  "version": "1.0.0",
+  "description": "![Design preview for the Fylo landing page with two column layout challenge](desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreSDS/Fylo-landing-page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndreSDS/Fylo-landing-page/issues"
+  },
+  "homepage": "https://github.com/AndreSDS/Fylo-landing-page#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
